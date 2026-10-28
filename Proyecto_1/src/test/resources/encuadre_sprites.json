@@ -1,0 +1,230 @@
+[
+  {
+    "tipo": "Contacto",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        36,
+        16,
+        28,
+        32
+      ]
+    ]
+  },
+  {
+    "tipo": "AlcanceMedio",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        42,
+        0,
+        22,
+        26
+      ]
+    ]
+  },
+  {
+    "tipo": "AtaqueMultiple",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        0,
+        21,
+        22,
+        22
+      ],
+      [
+        42,
+        21,
+        22,
+        22
+      ],
+      [
+        18,
+        30,
+        22,
+        24
+      ]
+    ]
+  },
+  {
+    "tipo": "Impacto",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        12,
+        5,
+        40,
+        43
+      ]
+    ]
+  },
+  {
+    "tipo": "Dron",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        39,
+        24,
+        25,
+        25
+      ]
+    ]
+  },
+  {
+    "tipo": "Dron",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        13,
+        9,
+        36,
+        29
+      ]
+    ]
+  },
+  {
+    "tipo": "Acechador",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        35,
+        29,
+        29,
+        32
+      ]
+    ]
+  },
+  {
+    "tipo": "Acechador",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        14,
+        5,
+        29,
+        31
+      ]
+    ]
+  },
+  {
+    "tipo": "Escupidor",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        36,
+        32,
+        28,
+        23
+      ]
+    ]
+  },
+  {
+    "tipo": "Escupidor",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        8,
+        6,
+        47,
+        39
+      ]
+    ]
+  },
+  {
+    "tipo": "Enjambre",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        1,
+        37,
+        27,
+        27
+      ],
+      [
+        36,
+        37,
+        28,
+        27
+      ],
+      [
+        39,
+        18,
+        22,
+        24
+      ]
+    ]
+  },
+  {
+    "tipo": "Enjambre",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        23,
+        13,
+        18,
+        22
+      ],
+      [
+        11,
+        31,
+        17,
+        20
+      ],
+      [
+        35,
+        32,
+        19,
+        22
+      ]
+    ]
+  },
+  {
+    "tipo": "Demoledor",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        0,
+        0,
+        43,
+        43
+      ]
+    ]
+  },
+  {
+    "tipo": "Demoledor",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        8,
+        3,
+        32,
+        35
+      ]
+    ]
+  },
+  {
+    "tipo": "Volador",
+    "estado": "ataque",
+    "zonasEfectoAtaque": [
+      [
+        34,
+        38,
+        30,
+        22
+      ]
+    ]
+  },
+  {
+    "tipo": "Volador",
+    "estado": "movimiento",
+    "anclasMovimiento": [
+      [
+        25,
+        25,
+        16,
+        26
+      ]
+    ]
+  }
+]

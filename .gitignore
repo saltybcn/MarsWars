@@ -1,0 +1,14 @@
+**/target/
+**/build/
+**/datos/
+**/partidas/
+*.tmp
+
+# Credenciales locales: no incluirlas en commits.
+**/src/main/java/persistencia/admin.json
+
+# Archivos locales del menú anterior (ya no se utilizan como preferencias).
+**/src/main/java/persistencia/sonidos.json
+**/sonidos/personalizados/
+
+# Los recursos portables de unidades acompañan al catálogo al compartir el proyecto.

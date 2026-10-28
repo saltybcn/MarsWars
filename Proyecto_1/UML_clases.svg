@@ -1,0 +1,808 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5398" height="4663" viewBox="0 0 5398 4663" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="12">
+<rect width="5398" height="4663" fill="#ffffff"/>
+<polyline points="1292.4,96.0 1292.4,186.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1287.4,175.0 1292.4,186.0 1297.4,175.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1236.4,316.0 1236.4,344.0 900.9,344.0 900.9,406.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="895.9,395.0 900.9,406.0 905.9,395.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1292.4,316.0 1292.4,344.0 1324.4,344.0 1324.4,538.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1319.4,527.0 1324.4,538.0 1329.4,527.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1348.4,316.0 1348.4,344.0 1755.6,344.0 1755.6,646.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1750.6,635.0 1755.6,646.0 1760.6,635.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1037.4,882.0 1037.4,938.0 1450.3,938.0 1450.3,1023.6" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1445.3,1012.6 1450.3,1023.6 1455.3,1012.6" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1324.4,838.0 1324.4,924.0 1541.5,924.0 1541.5,1023.6" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1536.5,1012.6 1541.5,1023.6 1546.5,1012.6" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1664.4,802.0 1664.4,924.0 1632.8,924.0 1632.8,1023.6" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1627.8,1012.6 1632.8,1023.6 1637.8,1012.6" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1602.4,1233.6 1602.4,1290.0 1690.9,1290.0 1690.9,1384.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1685.9,1373.0 1690.9,1384.0 1695.9,1373.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1480.7,1233.6 1480.7,1664.0 1572.5,1664.0 1572.5,1769.2" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1567.5,1758.2 1572.5,1769.2 1577.5,1758.2" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1218.4,2612.0 1218.4,2654.0 2097.0,2654.0 2097.0,3106.0 1644.8,3106.0 1644.8,3168.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1639.8,3157.0 1644.8,3168.0 1649.8,3157.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1084.1,2612.0 1084.1,2668.0 1451.2,2668.0 1451.2,2729.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1446.2,2718.0 1451.2,2729.0 1456.2,2718.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1303.5,4225.0 1303.5,4253.0 252.2,4253.0 252.2,4315.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="247.2,4304.0 252.2,4315.0 257.2,4304.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1458.3,3898.0 1458.3,3927.0 1364.0,3927.0 1364.0,3989.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1359.0,3978.0 1364.0,3989.0 1369.0,3978.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1415.3,3059.0 1415.3,3120.0 1243.0,3120.0 1243.0,3989.0" fill="none" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="1238.0,3978.0 1243.0,3989.0 1248.0,3978.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<polyline points="1554.4,3075.0 1554.4,3120.0 1533.1,3120.0 1533.1,3168.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="1554.4,3060.0 1562.4,3075.0 1546.4,3075.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="1554.4,3075.0 1554.4,3120.0 1921.6,3120.0 1921.6,3186.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="1554.4,3060.0 1562.4,3075.0 1546.4,3075.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="1607.4,3914.0 1607.4,3927.0 1969.4,3927.0 1969.4,4006.3" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="1607.4,3899.0 1615.4,3914.0 1599.4,3914.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="1607.4,3914.0 1607.4,3927.0 3805.7,3927.0 3805.7,4035.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="1607.4,3899.0 1615.4,3914.0 1599.4,3914.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2043.7,4224.3 2043.7,4267.0 605.7,4267.0 605.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="2043.7,4209.3 2051.7,4224.3 2035.7,4224.3" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2043.7,4224.3 2043.7,4267.0 2466.7,4267.0 2466.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="2043.7,4209.3 2051.7,4224.3 2035.7,4224.3" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2043.7,4224.3 2043.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="2043.7,4209.3 2051.7,4224.3 2035.7,4224.3" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2043.7,4224.3 2043.7,4267.0 1585.7,4267.0 1585.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="2043.7,4209.3 2051.7,4224.3 2035.7,4224.3" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2043.7,4224.3 2043.7,4267.0 1095.2,4267.0 1095.2,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="2043.7,4209.3 2051.7,4224.3 2035.7,4224.3" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4253.0 3391.2,4253.0 3391.2,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4253.0 4202.7,4253.0 4202.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4253.0 5145.2,4253.0 5145.2,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4253.0 4672.2,4253.0 4672.2,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4253.0 2984.4,4253.0 2984.4,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="3805.7,4195.0 3805.7,4315.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="3805.7,4180.0 3813.7,4195.0 3797.7,4195.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2258.5,3914.0 2258.5,3941.0 2118.0,3941.0 2118.0,4006.3" fill="none" stroke="#222" stroke-width="1.3" stroke-dasharray="7 4"/>
+<polygon points="2258.5,3899.0 2266.5,3914.0 2250.5,3914.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="2258.5,3914.0 2258.5,3941.0 2437.8,3941.0 2437.8,4253.0 2844.0,4253.0 2844.0,4315.0" fill="none" stroke="#222" stroke-width="1.3" stroke-dasharray="7 4"/>
+<polygon points="2258.5,3899.0 2266.5,3914.0 2250.5,3914.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<polyline points="1346.5,3077.0 1346.5,3106.0 774.9,3106.0 774.9,3562.8" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="1346.5,3059.0 1352.5,3068.0 1346.5,3077.0 1340.5,3068.0" fill="#222" stroke="#222" stroke-width="1"/>
+<polyline points="774.9,3784.8 774.9,3941.0 467.0,3941.0 467.0,4007.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="774.9,3766.8 780.9,3775.8 774.9,3784.8 768.9,3775.8" fill="#222" stroke="#222" stroke-width="1"/>
+<polyline points="682.7,3784.8 682.7,3927.0 353.0,3927.0 353.0,4007.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="682.7,3766.8 688.7,3775.8 682.7,3784.8 676.7,3775.8" fill="#222" stroke="#222" stroke-width="1"/>
+<polyline points="867.2,3784.8 867.2,3927.0 851.5,3927.0 851.5,4007.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polygon points="867.2,3766.8 873.2,3775.8 867.2,3784.8 861.2,3775.8" fill="#222" stroke="#222" stroke-width="1"/>
+<polyline points="1537.4,2729.0 1537.4,2640.0 1376.8,2640.0 1376.8,2401.8 1586.5,2401.8" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1575.5,2406.8 1586.5,2401.8 1575.5,2396.8" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1881.5,2459.0 1881.5,2838.8 1624.7,2838.8" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1635.7,2833.8 1624.7,2838.8 1635.7,2843.8" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1734.5,2459.0 1734.5,2640.0 2112.0,2640.0 2112.0,3227.0 2037.6,3227.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="2048.6,3222.0 2037.6,3227.0 2048.6,3232.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="2308.3,2980.0 2308.3,3106.0 2485.7,3106.0 2485.7,4107.0 3583.7,4107.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="3572.7,4112.0 3583.7,4107.0 3572.7,4102.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1690.9,1636.0 1690.9,1664.0 1702.3,1664.0 1702.3,2072.0 1734.3,2072.0 1734.3,2286.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1729.3,2275.0 1734.3,2286.0 1739.3,2275.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1824.1,1636.0 1824.1,1664.0 2308.3,1664.0 2308.3,2808.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="2303.3,2797.0 2308.3,2808.0 2313.3,2797.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1757.5,1636.0 1757.5,1678.0 1883.5,1678.0 1883.5,1748.7" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1878.5,1737.7 1883.5,1748.7 1888.5,1737.7" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1624.3,1636.0 1624.3,1769.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1619.3,1758.2 1624.3,1769.2 1629.3,1758.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1832.8,2032.7 1832.8,2072.0 1881.7,2072.0 1881.7,2286.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1876.7,2275.0 1881.7,2286.0 1886.7,2275.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1934.2,2032.7 1934.2,2072.0 2052.5,2072.0 2052.5,2949.2 1624.7,2949.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1635.7,2944.2 1624.7,2949.2 1635.7,2954.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1421.3,3168.0 1421.3,3134.0 1484.6,3134.0 1484.6,3060.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1489.6,3071.0 1484.6,3060.0 1479.6,3071.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1546.6,1925.2 1546.6,2072.0 1151.3,2072.0 1151.3,2152.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1146.3,2141.0 1151.3,2152.0 1156.3,2141.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="998.4,882.0 998.4,952.0 1326.4,952.0 1326.4,1304.0 1624.3,1304.0 1624.3,1384.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1619.3,1373.0 1624.3,1384.0 1629.3,1373.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="920.4,882.0 920.4,966.0 1189.1,966.0 1189.1,1692.0 1468.9,1692.0 1468.9,1769.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1463.9,1758.2 1468.9,1769.2 1473.9,1758.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="803.4,882.0 803.4,952.0 883.9,952.0 883.9,2811.2 1276.7,2811.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1265.7,2816.2 1276.7,2811.2 1265.7,2806.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="881.4,882.0 881.4,938.0 749.6,938.0 749.6,2894.0 1276.7,2894.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1265.7,2899.0 1276.7,2894.0 1265.7,2889.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="959.4,882.0 959.4,1664.0 1134.5,1664.0 1134.5,1744.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1129.5,1733.0 1134.5,1744.0 1139.5,1733.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="842.4,882.0 842.4,924.0 733.2,924.0 733.2,1290.0 571.1,1290.0 571.1,1440.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="566.1,1429.0 571.1,1440.0 576.1,1429.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="764.4,882.0 764.4,910.0 565.2,910.0 565.2,1026.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="560.2,1015.0 565.2,1026.0 570.2,1015.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1225.4,838.0 1225.4,1678.0 1520.7,1678.0 1520.7,1769.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1515.7,1758.2 1520.7,1769.2 1525.7,1758.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1423.4,838.0 1423.4,910.0 2022.8,910.0 2022.8,1026.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="2017.8,1015.0 2022.8,1026.0 2027.8,1015.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1209.0,2044.0 1209.0,2086.0 1461.1,2086.0 1461.1,2344.2 1586.5,2344.2" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1575.5,2349.2 1586.5,2344.2 1575.5,2339.2" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1060.0,2044.0 1060.0,2072.0 924.8,2072.0 924.8,2682.0 1364.4,2682.0 1364.4,2728.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1359.4,2717.0 1364.4,2728.0 1369.4,2717.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="571.1,1548.0 571.1,2976.8 1276.7,2976.8" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1265.7,2981.8 1276.7,2976.8 1265.7,2971.8" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1755.6,802.0 1755.6,1290.0 1757.5,1290.0 1757.5,1384.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1752.5,1373.0 1757.5,1384.0 1762.5,1373.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="1846.9,802.0 1846.9,924.0 1772.9,924.0 1772.9,1290.0 1824.1,1290.0 1824.1,1384.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1819.1,1373.0 1824.1,1384.0 1829.1,1373.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="2205.0,882.0 2205.0,910.0 2181.8,910.0 2181.8,1026.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="2176.8,1015.0 2181.8,1026.0 2186.8,1015.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="2102.3,882.0 2102.3,1026.0" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="2097.3,1015.0 2102.3,1026.0 2107.3,1015.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<polyline points="2447.3,2834.0 2433.3,2834.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1637.7,2748.0 1623.7,2748.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="459.2,4427.0 459.2,4413.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="3249.2,4411.0 3249.2,4397.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="3717.2,4443.0 3717.2,4429.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="4542.7,4443.0 4542.7,4429.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1394.8,2572.0 1352.8,2572.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1499.0,4022.0 1485.0,4022.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="715.0,1207.6 1359.0,1207.6" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1703.0,2669.0 1703.0,2459.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="2275.3,1045.0 2261.3,1045.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1770.6,3533.0 1756.6,3533.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="1904.7,1403.0 1890.7,1403.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="711.4,425.0 725.4,425.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="225.0,4026.0 239.0,4026.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<polyline points="407.2,1045.0 421.2,1045.0" fill="none" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<rect x="2703.7" y="4315.0" width="421" height="172" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="2703.7" y1="4343.0" x2="3124.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="2703.7" y1="4367.0" x2="3124.7" y2="4367.0" stroke="#444" stroke-width="1"/>
+<text x="2914.2" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Dron</text>
+<text x="2712.7" y="4359.0">- velMov: int {volatile}</text>
+<text x="2712.7" y="4383.0">+ Dron(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="2726.7" y="4399.0">costo: int)</text>
+<text x="2712.7" y="4415.0">+ Dron(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="2726.7" y="4431.0">costo: int, velMov: int)</text>
+<text x="2712.7" y="4447.0">+ Dron()</text>
+<text x="2712.7" y="4463.0">+ scan(): Componente</text>
+<text x="2712.7" y="4479.0">+ mover(x: int, y: int): void</text>
+<rect x="1277.7" y="2729.0" width="346" height="330" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1277.7" y1="2771.0" x2="1623.7" y2="2771.0" stroke="#444" stroke-width="1"/>
+<line x1="1277.7" y1="2987.0" x2="1623.7" y2="2987.0" stroke="#444" stroke-width="1"/>
+<text x="1450.7" y="2744.0" text-anchor="middle" font-size="10">&#171;Abstract&#187;</text>
+<text x="1450.7" y="2762.0" text-anchor="middle" font-weight="bold" font-size="13" font-style="italic">Componente</text>
+<text x="1286.7" y="2787.0">- id: String</text>
+<text x="1286.7" y="2803.0">- nombre: String</text>
+<text x="1286.7" y="2819.0">- imgIdle: ImageIcon</text>
+<text x="1286.7" y="2835.0">- pos: int[] {volatile}</text>
+<text x="1286.7" y="2851.0">- posicionFinal: int[]</text>
+<text x="1286.7" y="2867.0">- vidaMax: int</text>
+<text x="1286.7" y="2883.0">- vidaInicial: int</text>
+<text x="1286.7" y="2899.0">- vida: int {volatile}</text>
+<text x="1286.7" y="2915.0">- ultimoDmg: long {transient, volatile}</text>
+<text x="1286.7" y="2931.0">- aereo: boolean</text>
+<text x="1286.7" y="2947.0">- mapa: Mapa {volatile}</text>
+<text x="1286.7" y="2963.0">- historico: Historial</text>
+<text x="1286.7" y="2979.0">- imagenesCargadas: Map&lt;String, ImageIcon&gt; {final}</text>
+<line x1="1286.7" y1="2981.5" x2="1614.6" y2="2981.5" stroke="#000" stroke-width="0.8"/>
+<text x="1286.7" y="3003.0"># Componente()</text>
+<text x="1286.7" y="3019.0"># Componente(nombre: String, vida: int)</text>
+<text x="1286.7" y="3035.0">+ recibirDmg(dmg: int): int</text>
+<text x="1286.7" y="3051.0">+ cargarImagen(ruta: String): ImageIcon</text>
+<line x1="1286.7" y1="3053.5" x2="1532.6" y2="3053.5" stroke="#000" stroke-width="0.8"/>
+<rect x="4451.7" y="4315.0" width="441" height="114" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="4451.7" y1="4343.0" x2="4892.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="4451.7" y1="4357.0" x2="4892.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="4672.2" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Impacto</text>
+<text x="4460.7" y="4373.0">+ Impacto(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="4474.7" y="4389.0">costo: int)</text>
+<text x="4460.7" y="4405.0">+ Impacto()</text>
+<text x="4460.7" y="4421.0">+ atacar(objetivos: List&lt;Componente&gt;): void</text>
+<rect x="1180.4" y="186.0" width="224" height="130" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1180.4" y1="214.0" x2="1404.4" y2="214.0" stroke="#444" stroke-width="1"/>
+<line x1="1180.4" y1="228.0" x2="1404.4" y2="228.0" stroke="#444" stroke-width="1"/>
+<text x="1292.4" y="205.0" text-anchor="middle" font-weight="bold" font-size="13">VentanaInicio</text>
+<text x="1189.4" y="244.0">+ VentanaInicio()</text>
+<text x="1189.4" y="260.0">- abrirJuego(partida: Partida): void</text>
+<text x="1189.4" y="276.0">- crearPartida(): void</text>
+<text x="1189.4" y="292.0">- cargarPartida(): void</text>
+<text x="1189.4" y="308.0">- abrirAdministrador(): void</text>
+<rect x="2168.0" y="3818.0" width="181" height="80" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="2168.0" y1="3860.0" x2="2349.0" y2="3860.0" stroke="#444" stroke-width="1"/>
+<line x1="2168.0" y1="3874.0" x2="2349.0" y2="3874.0" stroke="#444" stroke-width="1"/>
+<text x="2258.5" y="3833.0" text-anchor="middle" font-size="10">&#171;Interface&#187;</text>
+<text x="2258.5" y="3851.0" text-anchor="middle" font-weight="bold" font-size="13">Movimiento</text>
+<text x="2177.0" y="3890.0" font-style="italic">+ mover(x: int, y: int): void</text>
+<rect x="949.8" y="2152.0" width="403" height="460" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="949.8" y1="2180.0" x2="1352.8" y2="2180.0" stroke="#444" stroke-width="1"/>
+<line x1="949.8" y1="2508.0" x2="1352.8" y2="2508.0" stroke="#444" stroke-width="1"/>
+<text x="1151.3" y="2171.0" text-anchor="middle" font-weight="bold" font-size="13">Configuracion</text>
+<text x="958.8" y="2196.0">- id: String</text>
+<text x="958.8" y="2212.0">- nombre: String</text>
+<text x="958.8" y="2228.0">- tipo: String</text>
+<text x="958.8" y="2244.0">- vida: int</text>
+<text x="958.8" y="2260.0">- dmg: int</text>
+<text x="958.8" y="2276.0">- intervaloMovimiento: Double</text>
+<text x="958.8" y="2292.0">- frecuenciaAtaque: double</text>
+<text x="958.8" y="2308.0">- alcance: int</text>
+<text x="958.8" y="2324.0">- costoCapacidad: int</text>
+<text x="958.8" y="2340.0">- misionMinima: int</text>
+<text x="958.8" y="2356.0">- activo: boolean</text>
+<text x="958.8" y="2372.0">- rutaIdle: String</text>
+<text x="958.8" y="2388.0">- rutaAtaque: String</text>
+<text x="958.8" y="2404.0">- rutaMovimiento: String</text>
+<text x="958.8" y="2420.0">- maxObjetivos: int</text>
+<text x="958.8" y="2436.0">- atacaAereos: boolean</text>
+<text x="958.8" y="2452.0">- sonidoAtacando: String</text>
+<text x="958.8" y="2468.0">- sonidoDestruido: String</text>
+<text x="958.8" y="2484.0">- ataqueSilenciado: boolean</text>
+<text x="958.8" y="2500.0">- destruccionSilenciada: boolean</text>
+<text x="958.8" y="2524.0">+ Configuracion()</text>
+<text x="958.8" y="2540.0">+ Configuracion(nombre: String, tipo: String, vida: int, dmg: int,</text>
+<text x="972.8" y="2556.0">frecuenciaAtaque: double, alcance: int, costoCapacidad: int,</text>
+<text x="972.8" y="2572.0">misionMinima: int)</text>
+<text x="958.8" y="2588.0">+ validar(): boolean</text>
+<text x="958.8" y="2604.0">+ crearUnidad(): Combate</text>
+<rect x="239.0" y="4007.0" width="342" height="156" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="239.0" y1="4035.0" x2="581.0" y2="4035.0" stroke="#444" stroke-width="1"/>
+<line x1="239.0" y1="4107.0" x2="581.0" y2="4107.0" stroke="#444" stroke-width="1"/>
+<text x="410.0" y="4026.0" text-anchor="middle" font-weight="bold" font-size="13">RegistroDmg</text>
+<text x="248.0" y="4051.0">- idComp: String</text>
+<text x="248.0" y="4067.0">- nombreComp: String</text>
+<text x="248.0" y="4083.0">- numGolpes: int</text>
+<text x="248.0" y="4099.0">- dmg: int</text>
+<text x="248.0" y="4123.0">+ RegistroDmg(idComp: String, nombreComp: String)</text>
+<text x="248.0" y="4139.0">+ RegistroDmg()</text>
+<text x="248.0" y="4155.0">+ AcumularGolpe(dmg: int): void {synchronized}</text>
+<rect x="1999.6" y="694.0" width="308" height="188" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1999.6" y1="722.0" x2="2307.6" y2="722.0" stroke="#444" stroke-width="1"/>
+<line x1="1999.6" y1="778.0" x2="2307.6" y2="778.0" stroke="#444" stroke-width="1"/>
+<text x="2153.6" y="713.0" text-anchor="middle" font-weight="bold" font-size="13">AccesoAdmin</text>
+<text x="2008.6" y="738.0">- autenticacion: Auth</text>
+<text x="2008.6" y="754.0">- autorizada: Auth</text>
+<text x="2008.6" y="770.0">- modo: String</text>
+<text x="2008.6" y="794.0">- AccesoAdmin(propietario: Window, auth: Auth)</text>
+<text x="2008.6" y="810.0">+ solicitar(propietario: Component): Auth</text>
+<line x1="2008.6" y1="812.5" x2="2258.2" y2="812.5" stroke="#000" stroke-width="0.8"/>
+<text x="2008.6" y="826.0">- cambiarModo(nuevo: String): void</text>
+<text x="2008.6" y="842.0">- limpiarClaves(): void</text>
+<text x="2008.6" y="858.0">- procesarAcceso(): void</text>
+<text x="2008.6" y="874.0">- volverAlAcceso(): void</text>
+<rect x="631.0" y="4007.0" width="441" height="124" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="631.0" y1="4035.0" x2="1072.0" y2="4035.0" stroke="#444" stroke-width="1"/>
+<line x1="631.0" y1="4091.0" x2="1072.0" y2="4091.0" stroke="#444" stroke-width="1"/>
+<text x="851.5" y="4026.0" text-anchor="middle" font-weight="bold" font-size="13">Mejora</text>
+<text x="640.0" y="4051.0">- mision: int</text>
+<text x="640.0" y="4067.0">- porcentajeVida: double</text>
+<text x="640.0" y="4083.0">- porcentajeDmg: double</text>
+<text x="640.0" y="4107.0">+ Mejora()</text>
+<text x="640.0" y="4123.0">+ Mejora(mision: int, porcentajeVida: double, porcentajeDmg: double)</text>
+<rect x="3174.7" y="4315.0" width="433" height="82" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="3174.7" y1="4343.0" x2="3607.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="3174.7" y1="4357.0" x2="3607.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="3391.2" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Contacto</text>
+<text x="3183.7" y="4373.0">+ Contacto(nombre: String, vida: int, dmg: int, velAtq: int, costo: int)</text>
+<text x="3183.7" y="4389.0">+ Contacto()</text>
+<rect x="725.4" y="406.0" width="351" height="476" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="725.4" y1="434.0" x2="1076.4" y2="434.0" stroke="#444" stroke-width="1"/>
+<line x1="725.4" y1="570.0" x2="1076.4" y2="570.0" stroke="#444" stroke-width="1"/>
+<text x="900.9" y="425.0" text-anchor="middle" font-weight="bold" font-size="13">VentanaJuego</text>
+<text x="734.4" y="450.0">- partida: Partida</text>
+<text x="734.4" y="466.0">- catalogo: Catalogo</text>
+<text x="734.4" y="482.0">- misionPreparada: boolean</text>
+<text x="734.4" y="498.0">- opcionesInventario: ArrayList&lt;Configuracion&gt; {final}</text>
+<text x="734.4" y="514.0">- componenteSeleccionado: Componente</text>
+<text x="734.4" y="530.0">- filasResultados: ArrayList&lt;Componente&gt; {final}</text>
+<text x="734.4" y="546.0">- mostrarResumenDesde: long {transient}</text>
+<text x="734.4" y="562.0">- resultadosMostrados: boolean {transient}</text>
+<text x="734.4" y="586.0">+ VentanaJuego()</text>
+<text x="734.4" y="602.0">+ mostrar(): void</text>
+<text x="734.4" y="618.0">+ actualizarMapa(): void</text>
+<text x="734.4" y="634.0">+ mostrarDetalle(componente: Componente): void</text>
+<text x="734.4" y="650.0">+ mostrarResultados(resultado: String): void</text>
+<text x="734.4" y="666.0">- actualizarDetalle(): void</text>
+<text x="734.4" y="682.0">- actualizarInventario(): void</text>
+<text x="734.4" y="698.0">- actualizarControles(): void</text>
+<text x="734.4" y="714.0">- seleccionarCasilla(fila: int, columna: int): void</text>
+<text x="734.4" y="730.0">- retirarCasilla(fila: int, columna: int): void</text>
+<text x="734.4" y="746.0">- solicitarSalida(): void</text>
+<text x="734.4" y="762.0">- mostrarParticipanteSeleccionado(): void</text>
+<text x="734.4" y="778.0">- iniciarMision(): void</text>
+<text x="734.4" y="794.0">- pausarPartida(): void</text>
+<text x="734.4" y="810.0">- continuarPartida(): void</text>
+<text x="734.4" y="826.0">- guardarPartida(): void</text>
+<text x="734.4" y="842.0">- avanzarMision(): void</text>
+<text x="734.4" y="858.0">- finalizarCampana(): void</text>
+<text x="734.4" y="874.0">- repetirMision(): void</text>
+<rect x="911.0" y="1744.0" width="447" height="300" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="911.0" y1="1772.0" x2="1358.0" y2="1772.0" stroke="#444" stroke-width="1"/>
+<line x1="911.0" y1="1860.0" x2="1358.0" y2="1860.0" stroke="#444" stroke-width="1"/>
+<text x="1134.5" y="1763.0" text-anchor="middle" font-weight="bold" font-size="13">PanelMapa</text>
+<text x="920.0" y="1788.0">- mapa: Mapa</text>
+<text x="920.0" y="1804.0">- anteriores: Componente[][] {final}</text>
+<text x="920.0" y="1820.0">- finEfecto: long[][] {final}</text>
+<text x="920.0" y="1836.0">- imagenesDano: Map&lt;ImageIcon, ImageIcon&gt; {final}</text>
+<text x="920.0" y="1852.0">- seleccion: Consumer&lt;Componente&gt; {final}</text>
+<text x="920.0" y="1876.0">+ PanelMapa()</text>
+<text x="920.0" y="1892.0">+ PanelMapa(seleccion: Consumer&lt;Componente&gt;)</text>
+<text x="920.0" y="1908.0">+ PanelMapa(seleccion: Consumer&lt;Componente&gt;,</text>
+<text x="934.0" y="1924.0">casilla: BiConsumer&lt;Integer, Integer&gt;)</text>
+<text x="920.0" y="1940.0">+ PanelMapa(seleccion: Consumer&lt;Componente&gt;,</text>
+<text x="934.0" y="1956.0">casilla: BiConsumer&lt;Integer, Integer&gt;, retirar: BiConsumer&lt;Integer,</text>
+<text x="934.0" y="1972.0">Integer&gt;)</text>
+<text x="920.0" y="1988.0">- seleccionarCasilla(fila: int, columna: int, accion: BiConsumer&lt;Integer,</text>
+<text x="934.0" y="2004.0">Integer&gt;): void</text>
+<text x="920.0" y="2020.0">+ actualizar(): void</text>
+<text x="920.0" y="2036.0">- imagenDano(original: ImageIcon): ImageIcon</text>
+<rect x="3584.7" y="4035.0" width="442" height="144" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="3584.7" y1="4077.0" x2="4026.7" y2="4077.0" stroke="#444" stroke-width="1"/>
+<line x1="3584.7" y1="4091.0" x2="4026.7" y2="4091.0" stroke="#444" stroke-width="1"/>
+<text x="3805.7" y="4050.0" text-anchor="middle" font-size="10">&#171;Abstract&#187;</text>
+<text x="3805.7" y="4068.0" text-anchor="middle" font-weight="bold" font-size="13" font-style="italic">Defensa</text>
+<text x="3593.7" y="4107.0"># Defensa()</text>
+<text x="3593.7" y="4123.0"># Defensa(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="3607.7" y="4139.0">costo: int)</text>
+<text x="3593.7" y="4155.0">+ scan(): Componente</text>
+<text x="3593.7" y="4171.0"># esEnemigo(componente: Componente): boolean</text>
+<rect x="1573.1" y="646.0" width="365" height="156" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1573.1" y1="674.0" x2="1938.1" y2="674.0" stroke="#444" stroke-width="1"/>
+<line x1="1573.1" y1="730.0" x2="1938.1" y2="730.0" stroke="#444" stroke-width="1"/>
+<text x="1755.6" y="665.0" text-anchor="middle" font-weight="bold" font-size="13">VentanaSlots</text>
+<text x="1582.1" y="690.0">- paraGuardar: Partida {final}</text>
+<text x="1582.1" y="706.0">- partidaCargada: Partida</text>
+<text x="1582.1" y="722.0">- rutas: ArrayList&lt;String&gt; {final}</text>
+<text x="1582.1" y="746.0">+ VentanaSlots(propietario: Frame, paraGuardar: Partida)</text>
+<text x="1582.1" y="762.0">- actualizarSlots(): void</text>
+<text x="1582.1" y="778.0">- procesarSlotSeleccionado(): void</text>
+<text x="1582.1" y="794.0">- eliminarSlotSeleccionado(): void</text>
+<rect x="1557.7" y="1384.0" width="333" height="252" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1557.7" y1="1412.0" x2="1890.7" y2="1412.0" stroke="#444" stroke-width="1"/>
+<line x1="1557.7" y1="1532.0" x2="1890.7" y2="1532.0" stroke="#444" stroke-width="1"/>
+<text x="1724.2" y="1403.0" text-anchor="middle" font-weight="bold" font-size="13">Partida</text>
+<text x="1566.7" y="1428.0">- nombreComandante: String</text>
+<text x="1566.7" y="1444.0">- misionActual: int</text>
+<text x="1566.7" y="1460.0">- mapa: Mapa</text>
+<text x="1566.7" y="1476.0">- escuadron: Escuadron</text>
+<text x="1566.7" y="1492.0">- batalla: Batalla</text>
+<text x="1566.7" y="1508.0">- catalogo: Catalogo</text>
+<text x="1566.7" y="1524.0">- estadoInicial: byte[]</text>
+<text x="1566.7" y="1548.0">+ Partida(mapa: Mapa)</text>
+<text x="1566.7" y="1564.0">+ Partida(nombreComandante: String, mapa: Mapa)</text>
+<text x="1566.7" y="1580.0">+ prepararMision(catalogo: Catalogo): void</text>
+<text x="1566.7" y="1596.0">+ avanzar(): void</text>
+<text x="1566.7" y="1612.0">+ repetir(): void</text>
+<text x="1566.7" y="1628.0">+ guardarEstadoInicial(): void</text>
+<rect x="3657.7" y="4315.0" width="296" height="114" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="3657.7" y1="4343.0" x2="3953.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="3657.7" y1="4357.0" x2="3953.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="3805.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Barrera</text>
+<text x="3666.7" y="4373.0">+ Barrera(nombre: String, vida: int, costo: int)</text>
+<text x="3666.7" y="4389.0">+ Barrera()</text>
+<text x="3666.7" y="4405.0">+ atacar(objetivo: Componente): void</text>
+<text x="3666.7" y="4421.0"># actuar(): void</text>
+<rect x="1857.7" y="4315.0" width="372" height="124" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1857.7" y1="4343.0" x2="2229.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="1857.7" y1="4367.0" x2="2229.7" y2="4367.0" stroke="#444" stroke-width="1"/>
+<text x="2043.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Enjambre</text>
+<text x="1866.7" y="4359.0">- maxObjetivos: int</text>
+<text x="1866.7" y="4383.0">+ Enjambre(nombre: String, vida: int, dmg: int, velAtq: int,</text>
+<text x="1880.7" y="4399.0">alcance: int, costo: int, maxObjetivos: int)</text>
+<text x="1866.7" y="4415.0">+ Enjambre()</text>
+<text x="1866.7" y="4431.0">+ atacar(objetivos: List&lt;Componente&gt;): void</text>
+<rect x="4942.7" y="4315.0" width="405" height="124" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="4942.7" y1="4343.0" x2="5347.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="4942.7" y1="4367.0" x2="5347.7" y2="4367.0" stroke="#444" stroke-width="1"/>
+<text x="5145.2" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">AtaqueMultiple</text>
+<text x="4951.7" y="4359.0">- maxObjetivos: int</text>
+<text x="4951.7" y="4383.0">+ AtaqueMultiple(nombre: String, vida: int, dmg: int, velAtq: int,</text>
+<text x="4965.7" y="4399.0">alcance: int, costo: int, maxObjetivos: int)</text>
+<text x="4951.7" y="4415.0">+ AtaqueMultiple()</text>
+<text x="4951.7" y="4431.0">+ atacar(objetivos: List&lt;Componente&gt;): void</text>
+<rect x="2279.7" y="4315.0" width="374" height="98" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="2279.7" y1="4343.0" x2="2653.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="2279.7" y1="4357.0" x2="2653.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="2466.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Escupidor</text>
+<text x="2288.7" y="4373.0">+ Escupidor(nombre: String, vida: int, dmg: int, velAtq: int,</text>
+<text x="2302.7" y="4389.0">alcance: int, costo: int)</text>
+<text x="2288.7" y="4405.0">+ Escupidor()</text>
+<rect x="384.7" y="4315.0" width="442" height="98" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="384.7" y1="4343.0" x2="826.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="384.7" y1="4357.0" x2="826.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="605.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Acechador</text>
+<text x="393.7" y="4373.0">+ Acechador(nombre: String, vida: int, dmg: int, velAtq: int, costo: int,</text>
+<text x="407.7" y="4389.0">velMov: int)</text>
+<text x="393.7" y="4405.0">+ Acechador()</text>
+<rect x="1806.6" y="3186.0" width="230" height="82" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1806.6" y1="3214.0" x2="2036.6" y2="3214.0" stroke="#444" stroke-width="1"/>
+<line x1="1806.6" y1="3228.0" x2="2036.6" y2="3228.0" stroke="#444" stroke-width="1"/>
+<text x="1921.6" y="3205.0" text-anchor="middle" font-weight="bold" font-size="13">Nucleo</text>
+<text x="1815.6" y="3244.0">+ Nucleo(nombre: String, vida: int)</text>
+<text x="1815.6" y="3260.0">+ Nucleo()</text>
+<rect x="2183.3" y="2808.0" width="250" height="172" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="2183.3" y1="2836.0" x2="2433.3" y2="2836.0" stroke="#444" stroke-width="1"/>
+<line x1="2183.3" y1="2876.0" x2="2433.3" y2="2876.0" stroke="#444" stroke-width="1"/>
+<text x="2308.3" y="2827.0" text-anchor="middle" font-weight="bold" font-size="13">Escuadron</text>
+<text x="2192.3" y="2852.0">- capacidadTotal: int</text>
+<text x="2192.3" y="2868.0">- defensas: ArrayList&lt;Defensa&gt;</text>
+<text x="2192.3" y="2892.0">+ Escuadron()</text>
+<text x="2192.3" y="2908.0">+ Escuadron(capacidadTotal: int)</text>
+<text x="2192.3" y="2924.0">+ agregar(defensa: Defensa): boolean</text>
+<text x="2192.3" y="2940.0">+ quitar(defensa: Defensa): void</text>
+<text x="2192.3" y="2956.0">+ capacidadUtilizada(): int</text>
+<text x="2192.3" y="2972.0">+ capacidadRestante(): int</text>
+<rect x="169.7" y="4315.0" width="165" height="234" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="169.7" y1="4357.0" x2="334.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<line x1="169.7" y1="4525.0" x2="334.7" y2="4525.0" stroke="#444" stroke-width="1"/>
+<text x="252.2" y="4330.0" text-anchor="middle" font-size="10">&#171;Enum&#187;</text>
+<text x="252.2" y="4348.0" text-anchor="middle" font-weight="bold" font-size="13">Sonidos.Evento</text>
+<text x="178.7" y="4373.0">ATAQUE_ATACANTE</text>
+<text x="178.7" y="4389.0">ATAQUE_DEFENSA</text>
+<text x="178.7" y="4405.0">MUERTE_ATACANTE</text>
+<text x="178.7" y="4421.0">MUERTE_DEFENSA</text>
+<text x="178.7" y="4437.0">DESTRUCCION_NUCLEO</text>
+<text x="178.7" y="4453.0">CLICK_BOTON</text>
+<text x="178.7" y="4469.0">COLOCAR</text>
+<text x="178.7" y="4485.0">VICTORIA</text>
+<text x="178.7" y="4501.0">DERROTA</text>
+<text x="178.7" y="4517.0">- archivo: String {final}</text>
+<text x="178.7" y="4541.0">- Evento(archivo: String)</text>
+<rect x="876.7" y="4315.0" width="437" height="162" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="876.7" y1="4343.0" x2="1313.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="876.7" y1="4357.0" x2="1313.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="1095.2" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Volador</text>
+<text x="885.7" y="4373.0">+ Volador(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="899.7" y="4389.0">costo: int)</text>
+<text x="885.7" y="4405.0">+ Volador()</text>
+<text x="885.7" y="4421.0"># esEnemigo(componente: Componente): boolean</text>
+<text x="885.7" y="4437.0"># actuar(): void</text>
+<text x="885.7" y="4453.0"># avanzarHacia(objetivo: Componente): void</text>
+<text x="885.7" y="4469.0">+ mover(x: int, y: int): void</text>
+<rect x="1122.0" y="3989.0" width="363" height="236" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1122.0" y1="4017.0" x2="1485.0" y2="4017.0" stroke="#444" stroke-width="1"/>
+<line x1="1122.0" y1="4089.0" x2="1485.0" y2="4089.0" stroke="#444" stroke-width="1"/>
+<text x="1303.5" y="4008.0" text-anchor="middle" font-weight="bold" font-size="13">Sonidos</text>
+<text x="1131.0" y="4033.0">- trabajador: ThreadPoolExecutor {final}</text>
+<line x1="1131.0" y1="4035.5" x2="1374.0" y2="4035.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4049.0">- clips: Map&lt;String, List&lt;Clip&gt;&gt; {final}</text>
+<line x1="1131.0" y1="4051.5" x2="1371.8" y2="4051.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4065.0">- fallidos: Map&lt;String, Long&gt; {final}</text>
+<line x1="1131.0" y1="4067.5" x2="1352.7" y2="4067.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4081.0">- ultimoEvento: Map&lt;String, Long&gt; {final}</text>
+<line x1="1131.0" y1="4083.5" x2="1389.7" y2="4083.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4105.0">- Sonidos()</text>
+<text x="1131.0" y="4121.0">+ validar(ruta: String): void</text>
+<line x1="1131.0" y1="4123.5" x2="1296.9" y2="4123.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4137.0">+ ataque(unidad: Combate): void</text>
+<line x1="1131.0" y1="4139.5" x2="1333.1" y2="4139.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4153.0">+ destruccion(unidad: Componente): void</text>
+<line x1="1131.0" y1="4155.5" x2="1383.6" y2="4155.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4169.0">+ reproducir(evento: Evento, personalizado: String): void</text>
+<line x1="1131.0" y1="4171.5" x2="1475.6" y2="4171.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4185.0">+ configurarSonidosBTN(contenedor: Container): void</text>
+<line x1="1131.0" y1="4187.5" x2="1455.6" y2="4187.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4201.0">- reproducirArchivo(ruta: String, volumen: int): boolean</text>
+<line x1="1131.0" y1="4203.5" x2="1462.5" y2="4203.5" stroke="#000" stroke-width="0.8"/>
+<text x="1131.0" y="4217.0">- abrir(ruta: String): InputStream</text>
+<line x1="1131.0" y1="4219.5" x2="1327.4" y2="4219.5" stroke="#000" stroke-width="0.8"/>
+<rect x="1731.5" y="1748.7" width="304" height="284" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1731.5" y1="1776.7" x2="2035.5" y2="1776.7" stroke="#444" stroke-width="1"/>
+<line x1="1731.5" y1="1896.7" x2="2035.5" y2="1896.7" stroke="#444" stroke-width="1"/>
+<text x="1883.5" y="1767.7" text-anchor="middle" font-weight="bold" font-size="13">Batalla</text>
+<text x="1740.5" y="1792.7">- mapa: Mapa</text>
+<text x="1740.5" y="1808.7">- participantes: ArrayList&lt;Componente&gt;</text>
+<text x="1740.5" y="1824.7">- enCurso: boolean {transient, volatile}</text>
+<text x="1740.5" y="1840.7">- pausada: boolean {volatile}</text>
+<text x="1740.5" y="1856.7">- iniciada: boolean</text>
+<text x="1740.5" y="1872.7">- comprobador: Thread {transient, volatile}</text>
+<text x="1740.5" y="1888.7">- resultado: String</text>
+<text x="1740.5" y="1912.7">+ Batalla(mapa: Mapa)</text>
+<text x="1740.5" y="1928.7">+ Batalla()</text>
+<text x="1740.5" y="1944.7">+ iniciar(): void</text>
+<text x="1740.5" y="1960.7">+ comprobarResultado(): void</text>
+<text x="1740.5" y="1976.7">+ pausar(): void</text>
+<text x="1740.5" y="1992.7">+ reanudar(): void</text>
+<text x="1740.5" y="2008.7">+ finalizar(): void</text>
+<text x="1740.5" y="2024.7">- readObject(entrada: ObjectInputStream): void</text>
+<rect x="1587.5" y="2287.0" width="441" height="172" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1587.5" y1="2315.0" x2="2028.5" y2="2315.0" stroke="#444" stroke-width="1"/>
+<line x1="1587.5" y1="2355.0" x2="2028.5" y2="2355.0" stroke="#444" stroke-width="1"/>
+<text x="1808.0" y="2306.0" text-anchor="middle" font-weight="bold" font-size="13">Mapa</text>
+<text x="1596.5" y="2331.0">- mat: Componente[25][25]</text>
+<text x="1596.5" y="2347.0">- nucleo: Nucleo</text>
+<text x="1596.5" y="2371.0">+ Mapa()</text>
+<text x="1596.5" y="2387.0">+ limpiar(): void {synchronized}</text>
+<text x="1596.5" y="2403.0">+ colocar(unidad: Componente, x: int, y: int): boolean {synchronized}</text>
+<text x="1596.5" y="2419.0">+ mover(unidad: Componente, x: int, y: int): boolean {synchronized}</text>
+<text x="1596.5" y="2435.0">+ retirar(x: int, y: int): void {synchronized}</text>
+<text x="1596.5" y="2451.0">+ obtener(x: int, y: int): Componente {synchronized}</text>
+<rect x="1943.3" y="1026.0" width="318" height="236" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1943.3" y1="1054.0" x2="2261.3" y2="1054.0" stroke="#444" stroke-width="1"/>
+<line x1="1943.3" y1="1142.0" x2="2261.3" y2="1142.0" stroke="#444" stroke-width="1"/>
+<text x="2102.3" y="1045.0" text-anchor="middle" font-weight="bold" font-size="13">Auth</text>
+<text x="1952.3" y="1070.0">- usuario: String</text>
+<text x="1952.3" y="1086.0">- sal: String</text>
+<text x="1952.3" y="1102.0">- claveHash: String</text>
+<text x="1952.3" y="1118.0">- recuperacionHash: String</text>
+<text x="1952.3" y="1134.0">- ARCHIVO: Path {final}</text>
+<line x1="1952.3" y1="1136.5" x2="2093.8" y2="1136.5" stroke="#000" stroke-width="0.8"/>
+<text x="1952.3" y="1158.0">+ cargar(): Auth</text>
+<line x1="1952.3" y1="1160.5" x2="2050.1" y2="1160.5" stroke="#000" stroke-width="0.8"/>
+<text x="1952.3" y="1174.0">+ configurar(usuario: String, clave: char[]): String</text>
+<text x="1952.3" y="1190.0">+ validar(usuario: String, clave: char[]): boolean</text>
+<text x="1952.3" y="1206.0">+ validar(usuario: String, clave: String): boolean</text>
+<text x="1952.3" y="1222.0">+ recuperar(codigo: char[]): boolean</text>
+<text x="1952.3" y="1238.0">- coincide(valor: char[], hash: String): boolean</text>
+<text x="1952.3" y="1254.0">- derivar(valor: char[]): String</text>
+<rect x="1363.7" y="4315.0" width="444" height="130" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1363.7" y1="4343.0" x2="1807.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="1363.7" y1="4357.0" x2="1807.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="1585.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">Demoledor</text>
+<text x="1372.7" y="4373.0">+ Demoledor(nombre: String, vida: int, dmg: int, velAtq: int, costo: int,</text>
+<text x="1386.7" y="4389.0">alcance: int)</text>
+<text x="1372.7" y="4405.0">+ Demoledor()</text>
+<text x="1372.7" y="4421.0"># alcanceParaAtacar(): int</text>
+<text x="1372.7" y="4437.0">+ atacar(objetivos: List&lt;Componente&gt;): void</text>
+<rect x="430.1" y="1440.0" width="282" height="108" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="430.1" y1="1468.0" x2="712.1" y2="1468.0" stroke="#444" stroke-width="1"/>
+<line x1="430.1" y1="1492.0" x2="712.1" y2="1492.0" stroke="#444" stroke-width="1"/>
+<text x="571.1" y="1459.0" text-anchor="middle" font-weight="bold" font-size="13">PanelDetalle</text>
+<text x="439.1" y="1484.0">- componente: Componente</text>
+<text x="439.1" y="1508.0">+ PanelDetalle()</text>
+<text x="439.1" y="1524.0">+ mostrar(componente: Componente): void</text>
+<text x="439.1" y="1540.0">+ describir(c: Componente): String</text>
+<line x1="439.1" y1="1542.5" x2="649.6" y2="1542.5" stroke="#000" stroke-width="0.8"/>
+<rect x="1126.4" y="538.0" width="396" height="300" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1126.4" y1="566.0" x2="1522.4" y2="566.0" stroke="#444" stroke-width="1"/>
+<line x1="1126.4" y1="654.0" x2="1522.4" y2="654.0" stroke="#444" stroke-width="1"/>
+<text x="1324.4" y="557.0" text-anchor="middle" font-weight="bold" font-size="13">VentanaAdmin</text>
+<text x="1135.4" y="582.0">- RUTA_CATALOGO: String {final}</text>
+<line x1="1135.4" y1="584.5" x2="1334.4" y2="584.5" stroke="#000" stroke-width="0.8"/>
+<text x="1135.4" y="598.0">- catalogo: Catalogo</text>
+<text x="1135.4" y="614.0">- autenticacion: Auth</text>
+<text x="1135.4" y="630.0">- cargaFallida: boolean</text>
+<text x="1135.4" y="646.0">- idSeleccionado: String</text>
+<text x="1135.4" y="670.0">+ VentanaAdmin()</text>
+<text x="1135.4" y="686.0">+ mostrar(): void</text>
+<text x="1135.4" y="702.0">+ actualizarCatalogo(): void</text>
+<text x="1135.4" y="718.0">- actualizarSubtipos(): void</text>
+<text x="1135.4" y="734.0">- actualizarCamposPorTipo(): void</text>
+<text x="1135.4" y="750.0">- guardarConfiguracion(): void</text>
+<text x="1135.4" y="766.0">- nuevaConfiguracion(): void</text>
+<text x="1135.4" y="782.0">- eliminarConfiguracion(): void</text>
+<text x="1135.4" y="798.0">- alternarEstadoConfiguracion(): void</text>
+<text x="1135.4" y="814.0">- seleccionarRecurso(destino: JTextField, sonido: boolean): void</text>
+<text x="1135.4" y="830.0">- cargarConfiguracionSeleccionada(): void</text>
+<rect x="1820.7" y="4006.3" width="446" height="202" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1820.7" y1="4048.3" x2="2266.7" y2="4048.3" stroke="#444" stroke-width="1"/>
+<line x1="1820.7" y1="4072.3" x2="2266.7" y2="4072.3" stroke="#444" stroke-width="1"/>
+<text x="2043.7" y="4021.3" text-anchor="middle" font-size="10">&#171;Abstract&#187;</text>
+<text x="2043.7" y="4039.3" text-anchor="middle" font-weight="bold" font-size="13" font-style="italic">Atacante</text>
+<text x="1829.7" y="4064.3">- velMov: int {volatile}</text>
+<text x="1829.7" y="4088.3"># Atacante()</text>
+<text x="1829.7" y="4104.3"># Atacante(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="1843.7" y="4120.3">costo: int, velMov: int)</text>
+<text x="1829.7" y="4136.3"># Atacante(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="1843.7" y="4152.3">costo: int)</text>
+<text x="1829.7" y="4168.3"># scan(): Componente</text>
+<text x="1829.7" y="4184.3"># esEnemigo(componente: Componente): boolean</text>
+<text x="1829.7" y="4200.3">+ mover(x: int, y: int): void</text>
+<rect x="1417.1" y="1769.2" width="259" height="156" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1417.1" y1="1797.2" x2="1676.1" y2="1797.2" stroke="#444" stroke-width="1"/>
+<line x1="1417.1" y1="1821.2" x2="1676.1" y2="1821.2" stroke="#444" stroke-width="1"/>
+<text x="1546.6" y="1788.2" text-anchor="middle" font-weight="bold" font-size="13">Catalogo</text>
+<text x="1426.1" y="1813.2">- configs: ArrayList&lt;Configuracion&gt;</text>
+<text x="1426.1" y="1837.2">+ Catalogo()</text>
+<text x="1426.1" y="1853.2">+ agregar(config: Configuracion): void</text>
+<text x="1426.1" y="1869.2">+ modificar(config: Configuracion): void</text>
+<text x="1426.1" y="1885.2">+ alternarActivo(id: String): void</text>
+<text x="1426.1" y="1901.2">+ eliminar(id: String): void</text>
+<text x="1426.1" y="1917.2">+ consultar(id: String): Configuracion</text>
+<rect x="1309.6" y="3168.0" width="447" height="730" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1309.6" y1="3210.0" x2="1756.6" y2="3210.0" stroke="#444" stroke-width="1"/>
+<line x1="1309.6" y1="3586.0" x2="1756.6" y2="3586.0" stroke="#444" stroke-width="1"/>
+<text x="1533.1" y="3183.0" text-anchor="middle" font-size="10">&#171;Abstract&#187;</text>
+<text x="1533.1" y="3201.0" text-anchor="middle" font-weight="bold" font-size="13" font-style="italic">Combate</text>
+<text x="1318.6" y="3226.0">- imgAtq: ImageIcon</text>
+<text x="1318.6" y="3242.0">- imgMov: ImageIcon</text>
+<text x="1318.6" y="3258.0">- lvl: int</text>
+<text x="1318.6" y="3274.0">- mision: int</text>
+<text x="1318.6" y="3290.0">- costo: int</text>
+<text x="1318.6" y="3306.0">- dmg: int</text>
+<text x="1318.6" y="3322.0">- velAtq: int {volatile}</text>
+<text x="1318.6" y="3338.0">- alcance: int</text>
+<text x="1318.6" y="3354.0">- atacaAereos: boolean</text>
+<text x="1318.6" y="3370.0">- sonidoAtacando: String</text>
+<text x="1318.6" y="3386.0">- sonidoDestruido: String</text>
+<text x="1318.6" y="3402.0">- ataqueSilenciado: boolean</text>
+<text x="1318.6" y="3418.0">- destruccionSilenciada: boolean</text>
+<text x="1318.6" y="3434.0">- mirandoIzquierda: boolean {volatile}</text>
+<text x="1318.6" y="3450.0">- esperaVisual: long {volatile}</text>
+<text x="1318.6" y="3466.0">- pasoAlterno: boolean {volatile}</text>
+<text x="1318.6" y="3482.0">- ultimoTick: long {transient, volatile}</text>
+<text x="1318.6" y="3498.0">- hilo: Thread {transient}</text>
+<text x="1318.6" y="3514.0">- activo: boolean {transient, volatile}</text>
+<text x="1318.6" y="3530.0">- pausado: boolean {transient, volatile}</text>
+<text x="1318.6" y="3546.0">- esperaAtaque: long</text>
+<text x="1318.6" y="3562.0"># esperaMovimiento: long</text>
+<text x="1318.6" y="3578.0"># detectados: ArrayList&lt;Componente&gt;</text>
+<text x="1318.6" y="3602.0"># Combate()</text>
+<text x="1318.6" y="3618.0"># Combate(nombre: String, vida: int, dmg: int, velAtq: int, alcance: int,</text>
+<text x="1332.6" y="3634.0">costo: int)</text>
+<text x="1318.6" y="3650.0">+ atacar(objetivos: List&lt;Componente&gt;): void</text>
+<text x="1318.6" y="3666.0">+ atacar(objetivo: Componente): void</text>
+<text x="1318.6" y="3682.0">+ aplicarGolpe(objetivo: Componente): int</text>
+<text x="1318.6" y="3698.0">+ run(): void</text>
+<text x="1318.6" y="3714.0">+ start(): void {synchronized}</text>
+<text x="1318.6" y="3730.0"># actuar(): void</text>
+<text x="1318.6" y="3746.0" font-style="italic"># scan(): Componente</text>
+<text x="1318.6" y="3762.0" font-style="italic"># esEnemigo(componente: Componente): boolean</text>
+<text x="1318.6" y="3778.0"># detectar(radioBusqueda: int): Componente</text>
+<text x="1318.6" y="3794.0"># avanzarHacia(objetivo: Componente): void</text>
+<text x="1318.6" y="3810.0">+ detener(): void {synchronized}</text>
+<text x="1318.6" y="3826.0">+ pausar(): void {synchronized}</text>
+<text x="1318.6" y="3842.0">+ reanudar(): void {synchronized}</text>
+<text x="1318.6" y="3858.0">+ mejorar(porcentajeVida: double,</text>
+<text x="1332.6" y="3874.0">porcentajeDmg: double): void {synchronized}</text>
+<text x="1318.6" y="3890.0"># alcanceParaAtacar(): int</text>
+<rect x="590.4" y="3562.8" width="369" height="204" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="590.4" y1="3590.8" x2="959.4" y2="3590.8" stroke="#444" stroke-width="1"/>
+<line x1="590.4" y1="3646.8" x2="959.4" y2="3646.8" stroke="#444" stroke-width="1"/>
+<text x="774.9" y="3581.8" text-anchor="middle" font-weight="bold" font-size="13">Historial</text>
+<text x="599.4" y="3606.8">- recibido: ArrayList&lt;RegistroDmg&gt;</text>
+<text x="599.4" y="3622.8">- infligido: ArrayList&lt;RegistroDmg&gt;</text>
+<text x="599.4" y="3638.8">- mejoras: ArrayList&lt;Mejora&gt;</text>
+<text x="599.4" y="3662.8">+ Historial()</text>
+<text x="599.4" y="3678.8">+ RegistrarRecibido(idComp: String, nombreComp: String,</text>
+<text x="613.4" y="3694.8">dmg: int): void {synchronized}</text>
+<text x="599.4" y="3710.8">+ RegistrarInfligido(idComp: String, nombreComp: String,</text>
+<text x="613.4" y="3726.8">dmg: int): void {synchronized}</text>
+<text x="599.4" y="3742.8">+ RegistrarMejora(mision: int, porcentajeVida: double,</text>
+<text x="613.4" y="3758.8">porcentajeDmg: double): void {synchronized}</text>
+<rect x="421.2" y="1026.0" width="288" height="92" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="421.2" y1="1054.0" x2="709.2" y2="1054.0" stroke="#444" stroke-width="1"/>
+<line x1="421.2" y1="1078.0" x2="709.2" y2="1078.0" stroke="#444" stroke-width="1"/>
+<text x="565.2" y="1045.0" text-anchor="middle" font-weight="bold" font-size="13">PanelTranslucido</text>
+<text x="430.2" y="1070.0">- opacidad: float</text>
+<text x="430.2" y="1094.0">+ PanelTranslucido()</text>
+<text x="430.2" y="1110.0"># paintComponent(graphics: Graphics): void</text>
+<rect x="1200.4" y="30.0" width="184" height="66" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1200.4" y1="58.0" x2="1384.4" y2="58.0" stroke="#444" stroke-width="1"/>
+<line x1="1200.4" y1="72.0" x2="1384.4" y2="72.0" stroke="#444" stroke-width="1"/>
+<text x="1292.4" y="49.0" text-anchor="middle" font-weight="bold" font-size="13">Proyecto_1</text>
+<text x="1209.4" y="88.0">+ main(args: String[]): void</text>
+<line x1="1209.4" y1="90.5" x2="1374.9" y2="90.5" stroke="#000" stroke-width="0.8"/>
+<rect x="4003.7" y="4315.0" width="398" height="98" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="4003.7" y1="4343.0" x2="4401.7" y2="4343.0" stroke="#444" stroke-width="1"/>
+<line x1="4003.7" y1="4357.0" x2="4401.7" y2="4357.0" stroke="#444" stroke-width="1"/>
+<text x="4202.7" y="4334.0" text-anchor="middle" font-weight="bold" font-size="13">AlcanceMedio</text>
+<text x="4012.7" y="4373.0">+ AlcanceMedio(nombre: String, vida: int, dmg: int, velAtq: int,</text>
+<text x="4026.7" y="4389.0">alcance: int, costo: int)</text>
+<text x="4012.7" y="4405.0">+ AlcanceMedio()</text>
+<rect x="1359.0" y="1023.6" width="365" height="210" fill="#cce0ff" stroke="#444" stroke-width="1.2"/>
+<line x1="1359.0" y1="1051.6" x2="1724.0" y2="1051.6" stroke="#444" stroke-width="1"/>
+<line x1="1359.0" y1="1065.6" x2="1724.0" y2="1065.6" stroke="#444" stroke-width="1"/>
+<text x="1541.5" y="1042.6" text-anchor="middle" font-weight="bold" font-size="13">Archivo</text>
+<text x="1368.0" y="1081.6">+ Archivo()</text>
+<text x="1368.0" y="1097.6">+ guardarPartida(partida: Partida, ruta: String): void</text>
+<text x="1368.0" y="1113.6">+ cargarPartida(ruta: String): Partida</text>
+<text x="1368.0" y="1129.6">+ listarPartidas(): ArrayList&lt;String&gt;</text>
+<line x1="1368.0" y1="1132.1" x2="1586.6" y2="1132.1" stroke="#000" stroke-width="0.8"/>
+<text x="1368.0" y="1145.6">+ eliminarPartida(ruta: String): void</text>
+<line x1="1368.0" y1="1148.1" x2="1583.8" y2="1148.1" stroke="#000" stroke-width="0.8"/>
+<text x="1368.0" y="1161.6">+ guardarCatalogo(catalogo: Catalogo, ruta: String): void</text>
+<text x="1368.0" y="1177.6">+ cargarCatalogo(ruta: String): Catalogo</text>
+<text x="1368.0" y="1193.6">- copiarRecurso(ruta: String, config: Configuracion,</text>
+<text x="1382.0" y="1209.6">sonido: boolean): String</text>
+<text x="1368.0" y="1225.6">- limpiarImagenes(catalogo: Catalogo): void</text>
+<path d="M2447.3,2808.0 H2642.3 L2652.3,2818.0 V2860.0 H2447.3 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M2642.3,2808.0 V2818.0 H2652.3" fill="none" stroke="#555"/>
+<text x="2455.3" y="2824.0" font-size="10">defensas contiene las defensas</text>
+<text x="2455.3" y="2838.0" font-size="10">seleccionadas para la misión</text>
+<text x="2455.3" y="2852.0" font-size="10">(son las mismas instancias del mapa)</text>
+<path d="M1637.7,2729.0 H1815.7 L1825.7,2739.0 V2767.0 H1637.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M1815.7,2729.0 V2739.0 H1825.7" fill="none" stroke="#555"/>
+<text x="1645.7" y="2745.0" font-size="10">Guarda una referencia a un Mapa,</text>
+<text x="1645.7" y="2759.0" font-size="10">no crea un mapa nuevo</text>
+<path d="M384.7,4427.0 H523.7 L533.7,4437.0 V4465.0 H384.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M523.7,4427.0 V4437.0 H533.7" fill="none" stroke="#555"/>
+<text x="392.7" y="4443.0" font-size="10">El constructor mantiene el</text>
+<text x="392.7" y="4457.0" font-size="10">alcance fijado en 1</text>
+<path d="M3174.7,4411.0 H3313.7 L3323.7,4421.0 V4449.0 H3174.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M3313.7,4411.0 V4421.0 H3323.7" fill="none" stroke="#555"/>
+<text x="3182.7" y="4427.0" font-size="10">El constructor mantiene el</text>
+<text x="3182.7" y="4441.0" font-size="10">alcance fijado en 1</text>
+<path d="M3657.7,4443.0 H3766.7 L3776.7,4453.0 V4467.0 H3657.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M3766.7,4443.0 V4453.0 H3776.7" fill="none" stroke="#555"/>
+<text x="3665.7" y="4459.0" font-size="10">Atacar no hará nada</text>
+<path d="M4451.7,4443.0 H4623.7 L4633.7,4453.0 V4481.0 H4451.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M4623.7,4443.0 V4453.0 H4633.7" fill="none" stroke="#555"/>
+<text x="4459.7" y="4459.0" font-size="10">atacar(List) resuelve la explosión</text>
+<text x="4459.7" y="4473.0" font-size="10">usando alcance</text>
+<path d="M1394.8,2532.0 H1610.8 L1620.8,2542.0 V2612.0 H1394.8 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M1610.8,2532.0 V2542.0 H1620.8" fill="none" stroke="#555"/>
+<text x="1402.8" y="2548.0" font-size="10">frecuenciaAtaque está en segundos;</text>
+<text x="1402.8" y="2562.0" font-size="10">crearUnidad lo convierte a ms.</text>
+<text x="1402.8" y="2576.0" font-size="10">velAtq y velMov usan ms.</text>
+<text x="1402.8" y="2590.0" font-size="10">No se generan archivos Java: crearUnidad</text>
+<text x="1402.8" y="2604.0" font-size="10">instancia las clases concretas existentes.</text>
+<path d="M1499.0,3989.0 H1699.0 L1709.0,3999.0 V4055.0 H1499.0 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M1699.0,3989.0 V3999.0 H1709.0" fill="none" stroke="#555"/>
+<text x="1507.0" y="4005.0" font-size="10">Se serializan solo las rutas String;</text>
+<text x="1507.0" y="4019.0" font-size="10">no se serializan Clips ni hilos de audio.</text>
+<text x="1507.0" y="4033.0" font-size="10">Si la ruta es null, está vacía o falla,</text>
+<text x="1507.0" y="4047.0" font-size="10">se usa el WAV genérico del evento.</text>
+<path d="M448.0,1181.6 H705.0 L715.0,1191.6 V1233.6 H448.0 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M705.0,1181.6 V1191.6 H715.0" fill="none" stroke="#555"/>
+<text x="456.0" y="1197.6" font-size="10">Los recursos personalizados se copian a</text>
+<text x="456.0" y="1211.6" font-size="10">recursos/unidades/&lt;nombre-seguro&gt;-&lt;id-corto&gt;/</text>
+<text x="456.0" y="1225.6" font-size="10">(imágenes y WAV de la configuración).</text>
+<path d="M1587.5,2669.0 H1808.5 L1818.5,2679.0 V2707.0 H1587.5 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M1808.5,2669.0 V2679.0 H1818.5" fill="none" stroke="#555"/>
+<text x="1595.5" y="2685.0" font-size="10">Las unidades se comparten con Escuadron</text>
+<text x="1595.5" y="2699.0" font-size="10">y Batalla: no son copias.</text>
+<path d="M2275.3,1026.0 H2500.3 L2510.3,1036.0 V1064.0 H2275.3 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M2500.3,1026.0 V1036.0 H2510.3" fill="none" stroke="#555"/>
+<text x="2283.3" y="1042.0" font-size="10">ARCHIVO apunta a persistencia/admin.json.</text>
+<text x="2283.3" y="1056.0" font-size="10">No se almacena la contraseña en claro.</text>
+<path d="M1770.6,3507.0 H2018.6 L2028.6,3517.0 V3559.0 H1770.6 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M2018.6,3507.0 V3517.0 H2028.6" fill="none" stroke="#555"/>
+<text x="1778.6" y="3523.0" font-size="10">Los ataques comunes se heredan de Combate y</text>
+<text x="1778.6" y="3537.0" font-size="10">recibirDmg de Componente: las cajas hijas</text>
+<text x="1778.6" y="3551.0" font-size="10">no los redeclaran.</text>
+<path d="M1904.7,1384.0 H2051.7 L2061.7,1394.0 V1422.0 H1904.7 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M2051.7,1384.0 V1394.0 H2061.7" fill="none" stroke="#555"/>
+<text x="1912.7" y="1400.0" font-size="10">La copia inicial es un byte[],</text>
+<text x="1912.7" y="1414.0" font-size="10">no otro mapa compartido.</text>
+<path d="M432.4,406.0 H701.4 L711.4,416.0 V444.0 H432.4 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M701.4,406.0 V416.0 H711.4" fill="none" stroke="#555"/>
+<text x="440.4" y="422.0" font-size="10">mostrarResumenDesde conserva el desenlace 1,5 s;</text>
+<text x="440.4" y="436.0" font-size="10">pausa y resultados usan capas al 75%.</text>
+<path d="M30.0,4007.0 H215.0 L225.0,4017.0 V4045.0 H30.0 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M215.0,4007.0 V4017.0 H225.0" fill="none" stroke="#555"/>
+<text x="38.0" y="4023.0" font-size="10">AcumularGolpe recibe solo dmg;</text>
+<text x="38.0" y="4037.0" font-size="10">numGolpes aumenta internamente.</text>
+<path d="M225.2,1026.0 H397.2 L407.2,1036.0 V1064.0 H225.2 Z" fill="#ffffff" stroke="#555" stroke-width="1"/>
+<path d="M397.2,1026.0 V1036.0 H407.2" fill="none" stroke="#555"/>
+<text x="233.2" y="1042.0" font-size="10">La opacidad afecta solo al fondo;</text>
+<text x="233.2" y="1056.0" font-size="10">los controles quedan opacos.</text>
+<rect x="779.9" y="3544.8" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="782.9" y="3555.8" font-size="11" fill="#222">1</text>
+<rect x="472.0" y="3989.0" width="76.6" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="475.0" y="4000.0" font-size="11" fill="#222">recibido: 0..*</text>
+<rect x="358.0" y="3989.0" width="76.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="361.0" y="4000.0" font-size="11" fill="#222">infligido: 0..*</text>
+<rect x="856.5" y="3989.0" width="25.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="859.5" y="4000.0" font-size="11" fill="#222">0..*</text>
+<rect x="1517.1" y="2406.8" width="65.4" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1520.1" y="2417.8" font-size="11" fill="#222">mapa: 0..1</text>
+<rect x="1628.7" y="2843.8" width="41.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1631.7" y="2854.8" font-size="11" fill="#222">0..625</text>
+<rect x="2041.6" y="3232.0" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="2044.6" y="3243.0" font-size="11" fill="#222">0..1</text>
+<rect x="3554.2" y="4112.0" width="25.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="3557.2" y="4123.0" font-size="11" fill="#222">0..*</text>
+<rect x="1739.3" y="2268.0" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1742.3" y="2279.0" font-size="11" fill="#222">1</text>
+<rect x="2313.3" y="2790.0" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="2316.3" y="2801.0" font-size="11" fill="#222">1</text>
+<rect x="1888.5" y="1730.7" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1891.5" y="1741.7" font-size="11" fill="#222">1</text>
+<rect x="1629.3" y="1751.2" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1632.3" y="1762.2" font-size="11" fill="#222">0..1</text>
+<rect x="1886.7" y="2268.0" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1889.7" y="2279.0" font-size="11" fill="#222">0..1</text>
+<rect x="1628.7" y="2954.2" width="25.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1631.7" y="2965.2" font-size="11" fill="#222">0..*</text>
+<rect x="1489.6" y="3064.0" width="25.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1492.6" y="3075.0" font-size="11" fill="#222">0..*</text>
+<rect x="1156.3" y="2134.0" width="25.5" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1159.3" y="2145.0" font-size="11" fill="#222">0..*</text>
+<rect x="1629.3" y="1366.0" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1632.3" y="1377.0" font-size="11" fill="#222">0..1</text>
+<rect x="1473.9" y="1751.2" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1476.9" y="1762.2" font-size="11" fill="#222">0..1</text>
+<rect x="1096.6" y="2816.2" width="176.1" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1099.6" y="2827.2" font-size="11" fill="#222">componenteSeleccionado: 0..1</text>
+<rect x="1157.3" y="2899.0" width="115.3" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1160.3" y="2910.0" font-size="11" fill="#222">filasResultados: 0..*</text>
+<rect x="1139.5" y="1726.0" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1142.5" y="1737.0" font-size="11" fill="#222">1</text>
+<rect x="576.1" y="1422.0" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="579.1" y="1433.0" font-size="11" fill="#222">1</text>
+<rect x="570.2" y="1008.0" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="573.2" y="1019.0" font-size="11" fill="#222">2</text>
+<rect x="1525.7" y="1751.2" width="13.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1528.7" y="1762.2" font-size="11" fill="#222">1</text>
+<rect x="2027.8" y="1008.0" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="2030.8" y="1019.0" font-size="11" fill="#222">0..1</text>
+<rect x="1555.5" y="2349.2" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1558.5" y="2360.2" font-size="11" fill="#222">0..1</text>
+<rect x="1369.4" y="2710.0" width="41.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1372.4" y="2721.0" font-size="11" fill="#222">0..625</text>
+<rect x="1245.7" y="2981.8" width="27.0" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1248.7" y="2992.8" font-size="11" fill="#222">0..1</text>
+<rect x="1762.5" y="1366.0" width="103.8" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1765.5" y="1377.0" font-size="11" fill="#222">paraGuardar: 0..1</text>
+<rect x="1829.1" y="1352.0" width="119.7" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="1832.1" y="1363.0" font-size="11" fill="#222">partidaCargada: 0..1</text>
+<rect x="2186.8" y="994.0" width="108.9" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="2189.8" y="1005.0" font-size="11" fill="#222">autenticacion: 0..1</text>
+<rect x="2107.3" y="1008.0" width="92.8" height="14.0" fill="#ffffff" fill-opacity="0.85"/><text x="2110.3" y="1019.0" font-size="11" fill="#222">autorizada: 0..1</text>
+<rect x="20" y="4599" width="1020" height="48" fill="#fff" stroke="#999" stroke-width="0.8"/>
+<line x1="30" y1="4623" x2="65" y2="4623" stroke="#222" stroke-width="1.3"/>
+<polygon points="80.0,4623.0 65.0,4631.0 65.0,4615.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<text x="88" y="4627" font-size="11">Herencia</text>
+<line x1="164.890625" y1="4623" x2="199.890625" y2="4623" stroke="#222" stroke-width="1.3" stroke-dasharray="6 3"/>
+<polygon points="214.9,4623.0 199.9,4631.0 199.9,4615.0" fill="#fff" stroke="#222" stroke-width="1.3"/>
+<text x="222.890625" y="4627" font-size="11">Realización de interfaz</text>
+<polygon points="375.8,4623.0 384.8,4617.0 393.8,4623.0 384.8,4629.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="393.75" y1="4623" x2="425.75" y2="4623" stroke="#222" stroke-width="1.3"/>
+<text x="433.75" y="4627" font-size="11">Composición</text>
+<line x1="532.21875" y1="4623" x2="582.21875" y2="4623" stroke="#222" stroke-width="1.3"/>
+<polyline points="571.2,4628.0 582.2,4623.0 571.2,4618.0" fill="none" stroke="#222" stroke-width="1.2"/>
+<text x="590.21875" y="4627" font-size="11">Asociación</text>
+<line x1="676.875" y1="4623" x2="726.875" y2="4623" stroke="#6b7a90" stroke-width="1" stroke-dasharray="5 4"/>
+<polyline points="715.9,4628.0 726.9,4623.0 715.9,4618.0" fill="none" stroke="#6b7a90" stroke-width="1.2"/>
+<text x="734.875" y="4627" font-size="11">Dependencia</text>
+<path d="M835.390625,4614 H849.390625 L855.390625,4620 V4632 H835.390625 Z" fill="#fff" stroke="#555"/>
+<line x1="861.390625" y1="4623" x2="881.390625" y2="4623" stroke="#888" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="893.390625" y="4627" font-size="11">Nota</text>
+<text x="30" y="4643" font-size="10" fill="#555">Asociaciones: la multiplicidad (y el rol, cuando hay dos o es relevante) se rotula en el extremo destino. Cursiva = abstracto; subrayado = estático.</text>
+</svg>
